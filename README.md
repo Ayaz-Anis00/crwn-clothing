@@ -1,4 +1,4 @@
-CRWN Clothing :-
+CROWN Clothing :-
 
 It is an E-Commerce model webpage built with React, using Firebase and Stripe API, deployed with Heroku. 
 
