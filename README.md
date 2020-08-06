@@ -2,7 +2,7 @@ CRWN Clothing :-
 
 It is an E-Commerce model webpage built with React, using Firebase and Stripe API, deployed with Heroku. 
 
-To view the app, visit: https://crownwardrobe.herokuapp.com/
+To view the webpage, visit: https://crownwardrobe.herokuapp.com/
 
 
 Technologies used:
