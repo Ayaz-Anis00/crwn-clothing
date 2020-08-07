@@ -1,11 +1,11 @@
-CROWN Clothing :-
+# CROWN Clothing :-
 
 It is an E-Commerce model webpage built with React, using Firebase and Stripe API, deployed with Heroku. 
 
 To view the webpage, visit: https://crownwardrobe.herokuapp.com/
 
 
-Technologies used:
+# Technologies used:
 
 React.js (Front-end),
 SASS and Styled Components (Styling),
@@ -14,7 +14,7 @@ Node.js (Back-end),
 Firebase (Database) and
 Stripe API.
 
-Current functionality includes:
+# Current functionality includes:
 
 Sign/Signup using email/password or Sign In with Google,
 Adding items to cart,
